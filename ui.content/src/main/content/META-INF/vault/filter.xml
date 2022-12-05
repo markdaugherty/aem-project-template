@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/rdegw" mode="merge"/>
+    <filter root="/content/rdegw" mode="merge"/>
+    <filter root="/content/dam/rdegw/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/rdegw" mode="merge"/>
+</workspaceFilter>

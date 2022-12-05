@@ -1,0 +1,7 @@
+{
+    "scripts": [
+        "create path (sling:OrderedFolder) /content/dam/rdegw",
+        "create path (nt:unstructured) /content/dam/rdegw/jcr:content",
+        "set properties on /content/dam/rdegw/jcr:content\n  set cq:conf{String} to /conf/rdegw\n  set jcr:title{String} to \"RDE GW\"\nend"
+    ]
+}
